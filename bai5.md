@@ -1,7 +1,5 @@
 # BÀI 5: THIẾT KẾ QUY TRÌNH & PROMPT CHO BỘ GIỚI HẠN TẦN SUẤT (RATE LIMITER)
 
-## Sinh viên: ....................................
-
 ## Mô tả bài toán
 
 Hệ thống SafePay cần triển khai cơ chế Rate Limiting để ngăn chặn DDoS và lạm dụng API.
